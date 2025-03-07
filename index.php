@@ -12,7 +12,7 @@
   <body class="sidebar-hidden">
     <div class="container">
       <!-- Header / Navbar -->
-      <?
+      <?php
       include 'header.php';
       ?>
 
@@ -27,7 +27,7 @@
 
         <div class="content-wrapper">
           <!-- Category List -->
-          <?
+          <?php
           include 'category.php';
           ?>  
 
